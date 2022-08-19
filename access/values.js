@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "04.01.2004"; // Дата рождения
-var fullname = "Микицей Євген Русланович" // ФИО
+var birthdate = "17.06.2004"; // Дата рождения
+var fullname = "Возный Александр борисович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
